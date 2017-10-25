@@ -1,4 +1,4 @@
-You can fine **live** versions of the notebooks running on Microsoft Azure at [https://notebooks.azure.com/douglasastarnes/libraries/tcmem17](https://notebooks.azure.com/douglasastarnes/libraries/tcmem17).  All you need to sign in is a Microsoft account (ie. outlook.com email) and the clone the library at the link.  And yes, it's **FREE**!
+You can find **live** versions of the notebooks running on Microsoft Azure at [https://notebooks.azure.com/douglasastarnes/libraries/tcmem17](https://notebooks.azure.com/douglasastarnes/libraries/tcmem17).  All you need to sign in is a Microsoft account (ie. outlook.com email) and the clone the library at the link.  And yes, it's **FREE**!
 
 If you want your own installation there are several ways to get it.
 
