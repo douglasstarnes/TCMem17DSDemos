@@ -13,3 +13,10 @@ To see a list of Jupyter notebook keyboard commands [https://www.cheatography.co
 If you want to learn more about Python, check out the Memphis Python User Group which meets the 3rd Monday of the month.  And also the Machine Learning/Data Science/R User Group meets the first Tuesday of the month.  Details are available on [Meetup](https://www.meetup.com/memphis-technology-user-groups/)
 
 Finally, if you want to know more about the Python Standard Library, check out my Pluralsight course: Getting Started with the Python Standard Library [Preview Trailer](https://www.youtube.com/watch?v=SNsk5zY6Sjw)
+
+Python Packages Used:
+* [Jupyter Notebook](http://jupyter.org)
+* [numpy](http://www.numpy.org)
+* [matplotlib](http://matplotlib.org)
+* [pandas](http://pandas.pydata.org)
+* [scikit-learn](http://scikit-learn.org/stable/)
