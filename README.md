@@ -8,7 +8,7 @@ If you prefer not to have to install anything locally (Anaconda works best on so
 * [Anaconda Offical (includes Jupyter notebook)](https://hub.docker.com/r/continuumio/anaconda3/)
 * [Jupyter Notebook Data Science (includes the required Python packages)](https://hub.docker.com/r/jupyter/datascience-notebook/)
 
-To see a list of Jupyter notebook keyboard commands (https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/)[https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/]
+To see a list of Jupyter notebook keyboard commands [https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/)
 
 If you want to learn more about Python, check out the Memphis Python User Group which meets the 3rd Monday of the month.  And also the Machine Learning/Data Science/R User Group meets the first Tuesday of the month.  Details are available on [Meetup](https://www.meetup.com/memphis-technology-user-groups/)
 
